@@ -37,7 +37,9 @@ a {
   font-size: 30px;
 }
 .img-fluid {
-  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 100%;
 }
 .photo-link,
 .contact-link,
